@@ -1,5 +1,6 @@
 # eagle_landing
 
-Word to html
+https://epicasrl.github.io/eagle_landing/privacy-policy.html
 
-https://document.online-convert.com/convert/word-to-html
+https://epicasrl.github.io/eagle_landing/terms-and-conditions.html
+
